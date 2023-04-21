@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sky2837/Script/main/PetSimulatorX/Loading/Main/Hub/AutoFram/AutoEgg/virtualPet/1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sky2837/Script./main/main/PetSimulatorX/Loading/Main/Hub/AutoFram/AutoEgg/virtualPet/2"))()
